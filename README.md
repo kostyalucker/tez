@@ -1,6 +1,7 @@
 # tez
 
-> My super-excellent Nuxt.js project
+Deployed application - https://rob3n.github.io/tez.github.io/
+
 
 ## Build Setup
 
